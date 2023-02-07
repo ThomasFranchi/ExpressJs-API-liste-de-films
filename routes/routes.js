@@ -21,7 +21,7 @@ router.get("/movies/:category", (req, res) => {
   nameCategory = req.params.category;
 
     // vérification que la catégorie existe
-    if (!categories.includes(category)) {
+    if (!categories.includes(nameCategory)) {
       // Réponse avec le code 404 et un message
       return res.status(404).json({ message: "Cette catégorie n'existe pas." });
     }
