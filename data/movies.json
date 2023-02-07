@@ -1,0 +1,41 @@
+[
+    {
+        "title": "The Godfather",
+        "date": 1972,
+        "category": "Drama"
+      },
+      {
+        "title": "Gladiator",
+        "date": 2000,
+        "category": "Action"
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "date": 1994,
+        "category": "Drama"
+      },
+      {
+        "title": "The Terminator",
+        "date": 1984,
+        "category": "Sci-Fi"
+      },
+      {
+        "title": "Titanic",
+        "date": 1997,
+        "category": "Romance"
+      },
+      {
+        "title": "Inception",
+        "date": 2010,
+        "category": "Sci-Fi"
+      },
+      {
+        "title": "Goodfellas",
+        "date": 1990,
+        "category": "Crime"
+      },
+      {
+        "title": "The Dark Knight",
+        "date": 2008,
+        "category": "Action"}
+]

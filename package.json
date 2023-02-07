@@ -1,0 +1,19 @@
+{
+  "name": "atelier-5-films-et-series",
+  "version": "1.0.0",
+  "description": "exercice formation FSJS le Bocal - aterlier n° 5 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "routes"
+  ],
+  "author": "thomas Franchi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
